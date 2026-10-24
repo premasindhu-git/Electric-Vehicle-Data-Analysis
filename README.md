@@ -65,10 +65,7 @@ Users can filter the dashboard by:
 ## 🚀 Conclusion
 This project demonstrates how Tableau can transform electric vehicle data into an interactive dashboard for exploring adoption patterns, manufacturer performance, geographic distribution, and vehicle eligibility.
 
-## 📂 Project Files
-- Dashboard screenshot
-- Tableau workbook (`.twb` or `.twbx`), if available
-- Project documentation (`README.md`)
+)
 
 **Project Domain:** Data Analytics  
 **Tool:** Tableau Public  
